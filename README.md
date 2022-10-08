@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachinumrao
 - 👀 I’m interested in NLP and RL
-- 🌱 I’m currently learning RL
+- 🌱 I’m currently learning RL and Graph ML
 - 📫 How to reach me: Twitter @umrao_sachin
 
 <!---
